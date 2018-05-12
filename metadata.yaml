@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/333
     wikipedia: http://en.wikipedia.org/wiki/Robert_Michael_Ballantyne
 description: A tale of piracy and slavery in the pirate city of Algiers.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21692#The-Pirate-City--An-Algerine-Tale
 gutenberg_bookshelf:
 - Children's Fiction
 - Pirates, Buccaneers, Corsairs, etc.
